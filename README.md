@@ -1,5 +1,4 @@
 <h1 align="center">🌸Welcome🌸</h1>
-<br><p align="center"><img src="https://i.imgur.com/XU911rt.gif" width="500"></p><br>
 
 <p align="center">Hello there! I am <a href="https://github.com/Ingrid-E">Ingrid-E</a><br>
 💻Currently studying in Universidad del Valle!💻<br>

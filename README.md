@@ -7,11 +7,11 @@
 
 <p align="center"><img src="https://i.imgur.com/bUK0j3y.png" height="200"><br></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" width="400">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=bear" width="400">
  
  <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-E&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-E&layout=compact" width="400">
 
 </p>
 

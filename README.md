@@ -13,8 +13,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-E&layout=compact" width="400">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ingrid-E" width="400">
-
 
 </p>
 

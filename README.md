@@ -2,7 +2,7 @@
 
 <p align="center">Hello there! I am <a href="https://github.com/Ingrid-E">Ingrid-E</a><br>
 💻Currently studying in Universidad del Valle!💻<br>
-  Twitter: <a href="https://twitter.com/Ingrid_E_"> @oIngrid23o</p></a>
+  Twitter: <a href="https://twitter.com/Ingrid_E_">@Ingrid_E_</p></a>
 
 
 <p align="center"><img src="https://i.imgur.com/bUK0j3y.png" height="200"><br></p>

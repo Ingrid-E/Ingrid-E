@@ -12,10 +12,10 @@
  <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-E&layout=compact&hide=javascript" width="400">
-
-
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ingrid-E&theme=blood&hide_border=true)">
+  
 </p>
-
 
 
 

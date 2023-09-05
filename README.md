@@ -1,18 +1,16 @@
-<h1 align="center">🌸Welcome🌸</h1>
+### Hi there! 👋
 
-<p align="center">Hello there! I am <a href="https://github.com/Ingrid-E">Ingrid-E</a><br>
-💻Currently studying in Universidad del Valle!💻<br>
-  Twitter: <a href="https://twitter.com/Ingrid_E_">@Ingrid_E_</p></a>
+I'm Ingrid, Full-stack developer with a passion for backend development and 2 years of experience in the field.
 
+🌟 Skilled in:
+- Frontend development with React
+- Backend development with Java and Node.js
+- Creating microservices
 
-<p align="center"><img src="https://i.imgur.com/bUK0j3y.png" height="200"><br></p>
+☁️ I'm well-versed in AWS cloud services, ensuring robust and scalable solutions.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ingrid-E&show_icons=true&theme=buefy" width="400">
- 
- <br>
+🔧 Let's collaborate to create amazing projects together!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-E&layout=compact&hide=javascript" width="400">
-</p>
+📫 Reach out to me on [Twitter](https://twitter.com/IngridEchev) or connect with me on [LinkedIn](https://www.linkedin.com/in/ingrid-e/).
 
-
-
+📊 Explore my latest projects below 👇
